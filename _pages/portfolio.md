@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 - DEC 2020-JUIN 2022:  Postdoc researcher in the Department of Physical Chemistry, University of Complutense (UCM), Madrid, Spain. Research topics: Ultrafast photonics for the design of new materials and efficient energy capture, under Prof. Luis Bañares.
-  <div>
+  <div style="width: 90%; color: skyblue;">
   I have been working in the experimental research line of high harmonic generation for production of attosecond pulse
   trains and studies of molecular photoionization in the ultrafast time-scale with XUV radiation.
   I've made programming for motor control, data acquisition and data analysis including femtosecond multi-photon
