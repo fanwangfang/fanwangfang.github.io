@@ -8,7 +8,6 @@ redirect_from:
 ---
 
 
-{% include base_path %}
 
 I received my Ph.D. in physics from Université Paris-Sud XI, France. Subsequently, I conducted postdoctoral research for several years at Huazhong University of Science and Technology (HUST) in Wuhan, China, and later at Universidad de Complutense in Madrid, Spain. Currently, I am residing in Madrid.
 
@@ -26,8 +25,8 @@ Education
 
 Work experience
 ======
-- DEC 2020-JUIN 2022: Postdoc researcher in the Department of Physical Chemistry, University of Complutense (UCM), Madrid, Spain. Research topics: Ultrafast photonics for the design of new materials and efficient energy capture, under Prof. Luis Bañares. 
-- NOV 2017- Sep 2019: Postdoc researcher and team leader in charge of the whole project including software and hardware development of 3D multimodal coherent Raman imaging and spectroscopy instrument.
+- DEC 2020-JUIN 2022, Postdoc researcher in the Department of Physical Chemistry, University of Complutense (UCM), Madrid, Spain. Research topics: Ultrafast photonics for the design of new materials and efficient energy capture, under Prof. Luis Bañares. 
+- NOV 2017- SEP 2019, Postdoc researcher and team leader in charge of the whole project including software and hardware development of 3D multimodal coherent Raman imaging and spectroscopy instrument.
 
 
 Publications
@@ -56,17 +55,17 @@ Patents
 
 Talks
 ===
-- April 2021, Single shot lensless imaging using high order harmonic generation beamline , seminar at Department of Chemistry, Avd. Complutense s/n 28040, Universidad Complutense de Madrid, Madrid
-- 11-13 NOV 2019,  Real-time visualization of femtosecond laser-directed processing by multimodal nonlinear spectroscopic imaging, 12thInternational Photonics and Optoelectronics, POEM(2019), Wuhan, China
-- SEPT 2012, 3D imaging by coherent diffraction using high order harmonic generation beamline, Seminar at Ecole DoctoraleOndes and Matieres (EDOM), Palaiseau, France 
-- JUI 2012, 3D stereo holographic imaging with extended reference using high order harmonic generation beamline , seminar at Service Photon, Atom, Molecule, CEA, Saclay, France
-- 12 JUI 2011, Stereo coherent diffractive imaging, Seminar at Department of Astronomy and Physics, University of California, Los Angeles, U.S.A.
-- 2-6 MAY 2011, High-resolution holographic imaging with. extended reference using high order harmonic generation beamline, (poster presentation), International ATTOFEL summer school, Crete, Greece 
+- Apr 2021, Single shot lensless imaging using high order harmonic generation beamline , seminar at Department of Chemistry, Avd. Complutense s/n 28040, Universidad Complutense de Madrid, Madrid
+- 11-13 Nov 2019,  Real-time visualization of femtosecond laser-directed processing by multimodal nonlinear spectroscopic imaging, 12thInternational Photonics and Optoelectronics, POEM(2019), Wuhan, China
+- Sep 2012, 3D imaging by coherent diffraction using high order harmonic generation beamline, Seminar at Ecole DoctoraleOndes and Matieres (EDOM), Palaiseau, France 
+- Jul 2012, 3D stereo holographic imaging with extended reference using high order harmonic generation beamline , seminar at Service Photon, Atom, Molecule, CEA, Saclay, France
+- 12 Jul 2011, Stereo coherent diffractive imaging, Seminar at Department of Astronomy and Physics, University of California, Los Angeles, U.S.A.
+- 2-6 May 2011, High-resolution holographic imaging with. extended reference using high order harmonic generation beamline, (poster presentation), International ATTOFEL summer school, Crete, Greece 
 
 Teaching activities
 ===
 - Aug 2023 - Present,  Volunteer teacher in biblie study for kids in Immanuel Baptised Church, Madrid and Rio de Esperanza Iglesia, Madrid, Spain. 
-- Dec 2021 - Dec 2022,  Supervisor assistant of Master thesis about photon-electron imaging study of alkyl iodide molecules, UCM, Madrid, Spain. 
-- NOV 2017 - Sep 2019,  Supervisor assist of 3 master students for their master thesis project : ultrafast nonlinear spectroscopic characterization of low dimensional materials, photoresist, WNLO, Wuhan, China.
-- SEP 2009 - MAR 2010,  Tutor of Multimedia for new undergraduate, Université-Paris Sud, Orsay, France
-- SEP 2009 - SEP 2008,   Tutor assistant for reception of new Chinese students into Université-Paris Sud, Orsay, France
+- Dec 2021 - Jun 2022,  Supervisor assistant of Master thesis about photon-electron imaging study of alkyl iodide molecules, UCM, Madrid, Spain. 
+- Nov 2017 - Sep 2019,  Supervisor assist of 3 master students for their master thesis project : ultrafast nonlinear spectroscopic characterization of low dimensional materials, photoresist, WNLO, Wuhan, China.
+- Sep 2009 - Mar 2010,  Tutor of Multimedia for new undergraduate, Université-Paris Sud, Orsay, France
+- Sep 2009 - Sep 2008,   Tutor assistant for reception of new Chinese students into Université-Paris Sud, Orsay, France
