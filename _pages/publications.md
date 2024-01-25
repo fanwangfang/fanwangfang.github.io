@@ -26,6 +26,6 @@ author_profile: true
 Patents
 ===
 
-- **F. Wang** et al., *High-speed stereo 3D multimodal imaging system and method*, Granted Invention Patent in China (CN 201911040698.9) and U.S. international Patent in process of application.
-- S. Cai, W. Xiong, X. Zeng, Y. Tao, **F. Wang** et al., *A device and method for double laser dressing of grinding wheel*, Granted Invention Patent in China (CN108032222B).
-- W. Xiong, Y. Tao, R. Wang, S. Cai, **F. Wang** et al., Fabrication method of. photoresist, micro/nano sensitive wet intelligent device, Invention Patent (in processing), (CN108563101A), China. 
+- **F. Wang** et al., *High-speed stereo 3D multimodal imaging system and method*, Granted Chinese Invention Patent (CN 201911040698.9) in 2020 and U.S. international Patent in 2023.
+- W. Xiong, R. Wang, **F. Wang** et al., *Fabrication and imaging method of. photoresist based intelligent instrument*, Chinese Invention Patent in 2020. 
+- S. Cai, W. Xiong, X. Zeng, Y. Tao, **F. Wang** et al., *A device and method for double laser dressing of grinding wheel*, Granted Chinese Invention Patent in 2019 (CN108032222B).
