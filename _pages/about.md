@@ -20,11 +20,11 @@ Background
 
 Work experience
 ======
-- DEC 2020-JUIN 2022: Postdoc researcher in the Department of Physical Chemistry, University of Complutense (UCM), Madrid, Spain. Research topics: Ultrafast photonics for the design of new materials and efficient energy capture, under Prof. Luis Bañares. 
-- NOV 2017- Sep 2019: Postdoc researcher and team leader in charge of the whole project including software and hardware development of 3D multimodal coherent Raman imaging and spectroscopy instrument.
+- DEC 2020-JUN 2022, Postdoc researcher in the Department of Physical Chemistry, University of Complutense (UCM), Madrid, Spain. Research topics: Ultrafast photonics for the design of new materials and efficient energy capture, under Prof. Luis Bañares. 
+- NOV 2017- SEP 2019, Postdoc researcher and team leader in charge of the whole project including software and hardware development of 3D multimodal coherent Raman imaging and spectroscopy instrument.
 
 Research interest
-------
+======
 My expertise lies in the field of optical physics and the study of the interaction between lasers and matter. To this day, the intersection of laser physics and chemistry remains a crucial focus in high-tech developments for research, industry, and other national instituts.
 
 
