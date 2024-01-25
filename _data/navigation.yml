@@ -1,0 +1,24 @@
+# main links links
+main:
+  - title: "中文版"
+    url: /zh/ 
+
+  - title: "R&D Experience"
+    url: /portfolio/
+        
+  - title: "Publications"
+    url: /publications/
+
+  - title: "Teaching"
+    url: /teaching/    
+    
+  - title: "Talks"
+    url: /talks/    
+
+  - title: "CV"
+    url: /cv/
+
+  #- title: "Blog Posts"
+  #  url: /year-archive/
+    
+    
