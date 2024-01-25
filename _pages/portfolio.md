@@ -7,9 +7,12 @@ author_profile: true
 
 - DEC 2020-JUIN 2022:  Postdoc researcher in the Department of Physical Chemistry, University of Complutense (UCM), Madrid, Spain. Research topics: Ultrafast photonics for the design of new materials and efficient energy capture, under Prof. Luis Bañares.
   ````
-  I have been working in the experimental research line of high harmonic generation for production of attosecond pulse trains and studies of molecular photoionization in the ultrafast time-scale with XUV radiation.
-  I've made programming for motor control, data acquisition and data analysis including femtosecond multi-photon ionization mechanism of alkyliodide molecular in gas phase (including Freeman and Coulomb analysis).
-  I was also in charge of the development of the complex time phase-retrieval algorithm for the RABBIT (reconstruction of attosecond beating by interference of two-photon transitions) in case of CEP not being stable.
+  I have been working in the experimental research line of high harmonic generation for production of attosecond pulse
+  trains and studies of molecular photoionization in the ultrafast time-scale with XUV radiation.
+  I've made programming for motor control, data acquisition and data analysis including femtosecond multi-photon
+   ionization mechanism of alkyliodide molecular in gas phase (including Freeman and Coulomb analysis).
+  I was also in charge of the development of the complex time phase-retrieval algorithm for the RABBIT
+  (reconstruction of attosecond beating by interference of two-photon transitions) in case of CEP not being stable.
   ````
 - NOV 2017- Sep 2019:   Postdoc researcher and team leader in charge of the whole project including software and hardware development of 3D multimodal coherent Raman imaging and spectroscopy instrument.
 	And co-author for different national project study and application (such as laser 3D micro-nano material and device processing, photo-acoustic and laser induced breakdown spectroscopy instrument development) 
