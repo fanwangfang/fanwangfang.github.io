@@ -21,7 +21,7 @@ Education
     - Advisor: Paul Crozat
 - SEP 2007-AUG 2010: French engineer at Université Paris-Sud XI, Orsay, France.
     - Major: Optoelectronics 
-- SEP 2004-JUL 2008: Undergraduate at Huazhong University of Science and Technology (HUST), Wuhan, China. 
+- SEP 2004-JUL 2008: Undergraduate at Huazhong University of Science and Technology, Wuhan, China. 
     - Major: Optoelectronics
 
 Work experience
