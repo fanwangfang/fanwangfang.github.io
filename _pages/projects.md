@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Ongoing projects"
-permalink: /terms/
+permalink: /projects/
 author_profile: true
 ---
 
