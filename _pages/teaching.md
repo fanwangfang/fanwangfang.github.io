@@ -5,7 +5,8 @@ permalink: /teaching/
 author_profile: true
 ---
 
-- Dec 2021 - Dec 2022:  Supervisor assistant of Master thesis about photon-electron imaging study of alkyl iodide molecules, UCM, Madrid, Spain. 
+-Aug 2023 - Present:  Volunteer teacher in biblie study for kids in Immanuel Baptised Church, Madrid and Rio de Esperanza Iglesia, Madrid, Spain. 
+-Dec 2021 - Dec 2022:  Supervisor assistant of Master thesis about photon-electron imaging study of alkyl iodide molecules, UCM, Madrid, Spain. 
 - NOV 2017 - Sep 2019:  Supervisor assist of 3 master students for their master thesis project : ultrafast nonlinear spectroscopic characterization of low dimensional materials, photoresist, WNLO, Wuhan, China.
 - SEP 2009 - MAR 2010:  Tutor of Multimedia for new undergraduate, Université-Paris Sud, Orsay, France
 - SEP 2009 - SEP 2008:   Tutor assistant for reception of new Chinese students into Université-Paris Sud, Orsay, France
