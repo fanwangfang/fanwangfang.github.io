@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Language level"
-permalink: /skils/
+permalink: /skills/
 author_profile: true
 ---
 
