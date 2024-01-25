@@ -10,7 +10,7 @@ redirect_from:
 
 {% include base_path %}
 
-I received my Ph.D in physics from Université Paris-Sud XI, France, followed by years of postdoc research respectively in HUST, Wuhan China and in Universidad de Complutense, Madrid Spain. I stay in Madrid now. 
+I received my Ph.D. in physics from Université Paris-Sud XI, France. Subsequently, I conducted postdoctoral research for several years at Huazhong University of Science and Technology (HUST) in Wuhan, China, and later at Universidad de Complutense in Madrid, Spain. Currently, I am residing in Madrid.
 
 Education
 ======
