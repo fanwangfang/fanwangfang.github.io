@@ -11,7 +11,7 @@ author_profile: true
 - German (Basic notion)
 - Chinese (Native speaker)
 
-Programming skills
+Programming experience and skills
 ======
 
 - Project management, Law, Economics, Engineering, science and technology (STEM), 
