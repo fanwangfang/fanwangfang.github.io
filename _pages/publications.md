@@ -10,7 +10,7 @@ author_profile: true
 - **F. Wang** et al. *Enhanced coherent diffractive imaging by arbitrary extended reference*, in preparation.
 - S. Cai, Y. Tang, **F. Wang**, et al. *Investigation of the multi-elemental self-absorption mechanism and experimental optimization in laser-induced breakdown spectroscopy*, J. Anal. At. Spectro., 35, 912-926, 2020. 
 - **F. Wang**, et al., *Real-time visualization of femtosecond laser-directed processing by multimodal nonlinear spectroscopic imaging*, OSA international conference paper (2019). 
-- R., Wang†, **F. Wang†** (co-first author), et al. *Polarized second-harmonic generation optical microscopy for laser-directed assembly of ZnO nanowires*, Opt. Lett.,44(17), 2019. 
+- R., Wang†, **F. Wang**† (co-first author), et al. *Polarized second-harmonic generation optical microscopy for laser-directed assembly of ZnO nanowires*, Opt. Lett.,44(17), 2019. 
 - Y. Tao, W. Xiong, **F. Wang**, et al. *Resolution improvement of two photon polymerization by tuning polarization and wavelength*, OSA international conference (2019). 
 - S. Cai, W. Xiong, **F. Wang**, et al. *Expansion property of plasma plume for laser ablation of materials*, Journal of Alloys and Compounds 773 (1075-1088), 2018. 
 - S. Cai, W. Xiong, **F. Wang**, et al. *Theory and numerical model of the properties of plasma plume isothermal expansion during nanosecond laser ablation of a bronze-bonded diamond grinding wheel*, Applied Surface Science 475 (410-420), 2018. 
